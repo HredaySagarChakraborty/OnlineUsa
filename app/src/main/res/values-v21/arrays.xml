@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_name">  <item>Amazon </item>
+        <item>Ebay</item>
+        <item>Best Buy  </item>
+        <item>Walmart</item>
+        <item>Etsy </item>
+        <item>Ali Express</item>
+        <item>American Eagle   </item>
+        <item>Banggood</item>
+        <item>Groupon </item>
+        <item>Walgreen</item>
+        <item>Target  </item>
+        <item>Carters</item>
+        <item>Athleta </item>
+        <item>Newegg </item>
+        <item>Home Depot</item>
+        <item>Lowes  </item>
+        <item>Staples</item>
+        <item>Zappos </item>
+        <item>Petsmart </item>
+        <item>Dicks</item>
+
+
+
+
+
+    </string-array>
+
+
+
+
+</resources>

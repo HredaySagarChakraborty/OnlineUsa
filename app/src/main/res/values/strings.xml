@@ -1,0 +1,230 @@
+<resources>
+    <string name="app_name"> All USA Online Shopping</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_home">USA Online Shopping</string>
+
+    <string name="menu_gallery">About Us</string>
+
+    <string name="menu_slideshow">Privacy Policy</string>
+    <string name="menu_tools">Disclaimer</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Rate This App</string>
+
+
+    <string-array name="country_fashion">
+        <item>Bluenile </item>
+        <item>Armani</item>
+        <item>Asos </item>
+        <item>Ross Symons</item>
+        <item>Kay</item>
+        <item>Saksfifthavenue</item>
+        <item>Elle </item>
+        <item>Gilt</item>
+        <item>Gap</item>
+        <item>Macys</item>
+        <item>Jared  </item>
+        <item>Kohls</item>
+        <item>Victoria </item>
+        <item>Nordstorm </item>
+
+
+    </string-array>
+
+
+    <string-array name="country_food">
+        <item>Burger King </item>
+        <item>Dominos</item>
+        <item>Wegmans </item>
+        <item>Kfc</item>
+        <item>Delivery.com</item>
+        <item>Chick Fill</item>
+        <item>Eatingwell</item>
+        <item>Food Network</item>
+        <item>FreshDirect</item>
+        <item>Allrecepies</item>
+        <item>Wholefoodnetwork </item>
+        <item>Kroger</item>
+        <item>Hello Fresh </item>
+        <item>Instacart </item>
+
+
+    </string-array>
+
+
+    <string-array name="country_travel">
+        <item>Agoda </item>
+        <item>Airbnb</item>
+        <item>Booking </item>
+        <item>Budget</item>
+        <item>Carrentals</item>
+        <item>Cheapoair</item>
+        <item>Choicehotels</item>
+        <item>Emirates</item>
+        <item>Enterprise</item>
+        <item>Expedia</item>
+        <item>Homeaway </item>
+        <item>Hotwire</item>
+        <item>Travelocity </item>
+        <item>Trivango </item>
+
+
+    </string-array>
+
+
+    <string-array name="country_baby">
+        <item>Baby Earth </item>
+        <item>Childrensplace</item>
+        <item>Crateandbarrel </item>
+        <item>Disney</item>
+        <item>Faoschwarz</item>
+        <item>Fatbraintoys</item>
+        <item>Gamestop</item>
+        <item>Janieandjack</item>
+        <item>Lego</item>
+        <item>Mattel</item>
+        <item>Overstock </item>
+        <item>Zulily</item>
+
+
+    </string-array>
+
+    <string-array name="country_furniture">
+        <item>Allmodern </item>
+        <item>Bedbathandbeyond</item>
+        <item>Hayneedle </item>
+        <item>Ikea</item>
+        <item>Jossandmain</item>
+        <item>Overstock</item>
+        <item>Potterybarn</item>
+        <item>Restorationhardware</item>
+        <item>Wayfair</item>
+        <item>Westelm</item>
+        <item>Willams </item>
+        <item>Worldmarket</item>
+
+
+    </string-array>
+
+
+    <string-array name="country_electric">
+        <item>Adorama</item>
+        <item>Apple</item>
+        <item>Craigslist </item>
+        <item>Frys</item>
+        <item>Rakuten</item>
+        <item>Banggood</item>
+        <item>Tigerdirect</item>
+        <item>Woot</item>
+
+
+    </string-array>
+
+
+    <string-array name="country_job">
+        <item>Upwork</item>
+        <item>Freelancer</item>
+        <item>Guru </item>
+        <item>Usajobs</item>
+        <item>Careerbuilder</item>
+        <item>Indeed</item>
+        <item>Monster</item>
+        <item>Snagajob</item>
+
+
+    </string-array>
+
+
+    <string-array name="country_flower">
+        <item>1800 Flowers</item>
+        <item>Ftd</item>
+        <item>Gifts </item>
+        <item>Gifttree</item>
+        <item>Personal Creations</item>
+        <item>Proflowers</item>
+        <item>Teleflora</item>
+        <item>1800 Baskets</item>
+
+
+    </string-array>
+
+
+    <string-array name="country_news">
+        <item>Bbc</item>
+        <item>Cnn</item>
+        <item>Forbes</item>
+        <item>Foxnews</item>
+        <item>Espn</item>
+        <item> The Newwork Times</item>
+        <item>USA Today</item>
+        <item>Britannica</item>
+        <item>Abc News</item>
+        <item>Aol</item>
+        <item>Medical News Today</item>
+        <item> The Weather Channel</item>
+
+
+    </string-array>
+
+
+    <string-array name="country_pharmacy">
+        <item>Meijer</item>
+        <item>Caremark</item>
+        <item>1800Contacts</item>
+        <item>Cvs</item>
+        <item>Swansonvitamins</item>
+
+        <item>Puritan</item>
+        <item>Qvc</item>
+        <item>Target Pharmacy</item>
+        <item>Vitacost</item>
+        <item>The Vitaminworld</item>
+
+
+    </string-array>
+
+
+    <string-array name="country_book">
+        <item>Audible</item>
+        <item>Barnesandnoble</item>
+        <item>Book Depository</item>
+        <item>Chegg</item>
+        <item>Christian Book</item>
+
+        <item>Goodreads</item>
+        <item>Kobo</item>
+        <item>Penguinrandomhouse</item>
+        <item>Powells</item>
+        <item>Thriftbooks</item>
+
+
+    </string-array>
+
+
+    <string-array name="country_homerentals">
+        <item>Apartmentguide</item>
+        <item>Apartmentfinder</item>
+        <item>Apartmentlist</item>
+        <item>Apartments.com</item>
+        <item>Flipkey</item>
+
+        <item>Forrent.com</item>
+        <item>Homefinder</item>
+        <item>Homes.com</item>
+        <item>Rent.com</item>
+        <item>Rentals.com</item>
+        <item>Trulia</item>
+        <item>Vrbo</item>
+        <item>Zillow</item>
+        <item>Zumper</item>
+
+
+    </string-array>
+</resources>
+

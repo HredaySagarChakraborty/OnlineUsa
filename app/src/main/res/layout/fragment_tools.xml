@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="10dp"
+        android:text="This App is a tool to use added shopping sites at one place. Our SHOPPING apps is for fair usage of brand name. We respect terms and conditions of respective sites and have taken care all necessary guidelines while using names and logos. We tried our best not to use any copyright material in our app, still if you ( site owner) found anything that violate your terms and conditions please write us we will resolve the issue asap. We don't claim any copyright on graphics site using. This app is just a easy that any tool to access few pages. We don't claim to have any direct relationship with the brand on entity name we mentioned.
+
+Note : All contents of the website are owned by respective website. We have no copyright over the content/logo of other websites. For any details please mail us. These third party sites have separate and independent privacy policies and terms. Please read their privacy policy and terms and conditions carefully."
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+</androidx.core.widget.NestedScrollView>
